@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeanjean999
 - 👀 I’m interested in biology
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data analysis
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me 1lucas.france@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: not ape
